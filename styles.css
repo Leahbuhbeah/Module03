@@ -1,0 +1,56 @@
+
+header {
+    margin-top: 10px;
+    text-align: center;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-color: green;
+}
+
+h1 {
+    text-align: left;
+}
+
+h2 {
+    margin-top: 100px;
+    font-style: italic;
+}
+
+aside {
+    font-weight: bold;
+    float: right;
+}
+
+p {
+    margin: 60px;
+}
+
+
+
+body {
+    margin: 0; padding: 0;
+    text-align: center;
+    background-image: url("WidgetCoLogo.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+section {
+    border: 2px solid green;
+    border-left: 20px solid green;
+    text-align: center;
+}
+
+
+footer {
+    color: grey;
+    text-align: right;
+    margin-top: 10px;
+    border-top: 2px solid;
+    border-color: grey;
+
+    a {
+        color: grey;
+    }
+}
